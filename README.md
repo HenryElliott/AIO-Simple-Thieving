@@ -34,7 +34,7 @@ A runtime label (showing elapsed time)
 A log area for displaying actions taken
 A start/stop button that also works via the hotkey.
 
-Usage
+## Usage
 Running the Script:
 
 After running the script, a GUI window will appear.
