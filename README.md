@@ -7,7 +7,7 @@ This is a Python script that automates the process of thieving in a specific gam
 - **Start/Stop Automation**: Use the `Ctrl+Shift+C` hotkey to start and stop the script.
 - **Status Tracking**: View the current status (Running/Stopped) and the elapsed time of the script in real-time.
 - **Action Logging**: The script logs its actions in a text area within the GUI, providing information on each click made by the automation.
-- **Graphical User Interface (GUI)**: A modern Discord-like theme with custom fonts and a clean layout.
+- **Graphical User Interface (GUI)**: A modern theme with custom fonts and a clean layout.
 - **Randomized Clicks**: The script adds small randomization to mouse movements to avoid detection or repetitive patterns.
   
 ## Requirements
